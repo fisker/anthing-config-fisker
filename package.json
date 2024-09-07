@@ -59,7 +59,7 @@
     "is-path-inside": "^4.0.0",
     "latest-version": "9.0.0",
     "read-pkg": "9.0.1",
-    "sort-keys": "5.0.0",
+    "sort-keys": "5.1.0",
     "update-notifier": "7.0.0",
     "write-pkg": "7.0.0"
   },
