@@ -53,7 +53,7 @@
     "del": "7.1.0",
     "enquirer": "2.4.1",
     "esm-utils": "4.3.0",
-    "execa": "9.1.0",
+    "execa": "9.5.2",
     "has-yarn": "3.0.0",
     "is-path-in-cwd": "^4.0.0",
     "is-path-inside": "^4.0.0",
